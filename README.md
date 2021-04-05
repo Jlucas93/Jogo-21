@@ -1,5 +1,5 @@
-# Portfolio
-My Portfolio
+# Atividade de jogo de cartas 21
+Jogo de cartas 21
 
 **tecnologia**
 CSS / HTML / JavaSricpt
